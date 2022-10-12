@@ -1,0 +1,1 @@
+{"mappings":"ACIA","sources":["index.917c4ae5.css","src/style.scss"],"sourcesContent":["h1 {\n  color: red;\n}\n\n/*# sourceMappingURL=index.917c4ae5.css.map */\n","@use \"base\";\n@use \"variables\";\n\n\nh1{\n    color: red;\n}"],"names":[],"version":3,"file":"index.917c4ae5.css.map"}
